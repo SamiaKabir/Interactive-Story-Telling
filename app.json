@@ -1,0 +1,7 @@
+{
+  "name": "Chat Application: Node.js",
+  "description": "Application socket.io",
+  "repository": "https://github.com/SamiaKabir/Interactive-Story-Telling",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
